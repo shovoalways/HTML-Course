@@ -1,0 +1,6 @@
+label {
+  display: block;
+}
+.one label {
+  display: inline-block;
+}

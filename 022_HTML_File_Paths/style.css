@@ -1,0 +1,15 @@
+div {
+  background: tomato;
+  padding: 10px 20px;
+  margin-bottom: 20px;
+}
+.two {
+  background: aqua;
+}
+.title {
+  font-size: 20px;
+  color: white;
+}
+#four {
+  background: greenyellow;
+}

@@ -1,0 +1,20 @@
+q {
+  font-size: 25px;
+}
+img {
+  width: 200px;
+}
+ul {
+  margin: 0 0 15px;
+  padding: 0;
+  list-style: none;
+  text-align: center;
+}
+ul li {
+  display: inline-block;
+}
+ul li a {
+  color: white;
+  background: tomato;
+  padding: 10px 25px;
+}
